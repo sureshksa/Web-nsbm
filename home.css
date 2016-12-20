@@ -43,7 +43,7 @@ body{ text-align: center;
 	float: right;
 	margin-bottom: 5px;
 background: rgb(111,150,75);
-color: green;
+color: blue;
 }
 #top_nav li{
 
@@ -68,7 +68,7 @@ background: rgb(220,200,100);
 }
 article{
    margin: 1px;
-	border-bottom : solid 1px gray;
+	border-bottom : solid 1px white;
 	padding-left:1%;
 	padding-bottom:2px;
 }
